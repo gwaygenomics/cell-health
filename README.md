@@ -83,7 +83,7 @@ All data are publicly available.
 
 | Data | Level | Location | Notes |
 | :---- | :---- | :------ | :---- |
-| Images | 1 | Image Data Resource ([IDR](https://idr.openmicroscopy.org/)) | Accession `idr0080` |
+| Images | 1 | Image Data Resource ([IDR](https://idr.openmicroscopy.org/)) | Accession: `idr0080` available from https://idr.openmicroscopy.org/webclient/?show=screen-2701 |
 | SQLite file (single cell profiles ) | 2 | NIH Figshare https://doi.org/10.35092/yhjc.9995672 | `0.download-data/data` (see `0.download-data/README.md`)|
 | Aggregated profiles with well information (metadata) | 3 | [1.generate-profiles/data/profiles](1.generate-profiles/data/profiles) | suffix: `<PLATE>_augmented.csv.gz` |
 | Normalized aggregated profiles with metadata | 4a | [1.generate-profiles/data/profiles](1.generate-profiles/data/profiles) | suffix: `<PLATE>_normalized.csv.gz` |
